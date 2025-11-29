@@ -1,5 +1,7 @@
 #link to the project
 https://e5395cc7.mydala.app/
+#pitchdeck
+https://gamma.app/docs/Amani-Digital-Supporting-Protecting-Survivors-of-Digital-Violence-hvqlxzhbc0gdv9c?mode=doc
 
 # Amani Digital
 
